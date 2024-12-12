@@ -44,4 +44,5 @@ Agricultura y tecnología.
    Aumentar la producción de manera eficiente y sostenible, aprovechando las nuevas tecnologías para satisfacer la creciente demanda, sin sacrificar la calidad ni el compromiso con el medio ambiente.
 
 ### Desafíos tecnológicos  
+
    En este sentido, la empresa está explorando el uso de tecnologías avanzadas como **Inteligencia Artificial (IA)**, **IoT** y **Big Data** para mejorar la eficiencia operativa, optimizar el uso de recursos y reducir los costos. Estos avances permitirán una mejor gestión de los cultivos, el mantenimiento predictivo de maquinaria y la optimización logística.
