@@ -3,38 +3,28 @@
 ## Tecnologías para mejorar la producción (planta)
 
 ### 1. Sensores IoT para monitorear cultivos
-- **Función**
-  Miden en tiempo real parámetros como la humedad del suelo, temperatura y luz.
-- **Utilidad**  
-  Ayudan a usar menos agua y mejorar el crecimiento de las plantas.
+- **Función**: Miden en tiempo real parámetros como la humedad del suelo, temperatura y luz.
+- **Utilidad**: Ayudan a usar menos agua y mejorar el crecimiento de las plantas.
 
 ### 2. Drones para revisar los campos
-- **Función**
-  Vuelan sobre los cultivos y detectan problemas como plagas o falta de agua.
-- **Utilidad**  
-  Detectan problemas tempranamente y ahorran tiempo.
+- **Función**: Vuelan sobre los cultivos y detectan problemas como plagas o falta de agua.
+- **Utilidad**: Detectan problemas tempranamente y ahorran tiempo.
 
 ### 3. Mantenimiento predictivo con IA
-- **Función**
-  Analiza datos de las máquinas para predecir fallas antes de que ocurran.
-- **Utilidad**   
-  Evita paradas imprevistas y asegura un funcionamiento continuo.
+- **Función**: Analiza datos de las máquinas para predecir fallas antes de que ocurran.
+- **Utilidad**: Evita paradas imprevistas y asegura un funcionamiento continuo.
 
 ---
 
 ## Tecnologías para mejorar la administración (negocio)
 
 ### 4. Sistemas ERP con análisis de datos
-- **Función** 
-  Organiza la información de inventarios, logística y recursos.
-- **Utilidad**  
-  Mejora la planificación y reduce errores.
+- **Función**: Organiza la información de inventarios, logística y recursos.
+- **Utilidad**: Mejora la planificación y reduce errores.
 
 ### 5. Chatbots inteligentes para atender clientes
-- **Función**
-  Responden preguntas de los clientes automáticamente.
-- **Utilidad**    
-  Mejoran la atención al cliente y reducen el trabajo administrativo.
+- **Función**: Responden preguntas de los clientes automáticamente.
+- **Utilidad**: Mejoran la atención al cliente y reducen el trabajo administrativo.
 
 ---
 
